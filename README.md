@@ -14,4 +14,4 @@ AdvancedFizzBuzz is a console application that prints numbers from -12 through 1
 
 ###FizzBuzzModelUnitTest
 
-Uses Microsoft visualstudio unit test tools to test FizzBuzzModel class library. 
+Uses Microsoft visualstudio unit test tools to test FizzBuzzModel class library. Test results can be found in TestResults folder.
